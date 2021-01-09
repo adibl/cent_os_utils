@@ -5,4 +5,4 @@ Description=ssh agent
 ExecStart=/usr/bin/ssh-agent -D
 
 [Install]
-WantedBy=multi-user.target
+WantedBy=default.taraget
